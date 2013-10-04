@@ -1,1 +1,1 @@
-cordova android template
+cordova android template for eclipse
